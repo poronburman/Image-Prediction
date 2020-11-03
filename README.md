@@ -6,6 +6,6 @@
 
 3. The convolutional neural network model used in this analysis was trained on 8000 images; each image being either a cat or a dog. After the model was trained, it was tested to classify two images. It accurately classified the below images being that either of a cat or a dog.
 
-![](sdata/cat_or_dog_2.png)
+![](data/cat_or_dog_2.png)
     
 ![](data/cat_or_dog_1.png)
